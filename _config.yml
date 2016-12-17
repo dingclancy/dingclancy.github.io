@@ -3,4 +3,4 @@ markdown: kramdown
 future: true
 encoding: UTF-8
 timezone: Asia/Hong_Kong
-permalink: /blog/:year/:month:/day/:title
+permalink: /blog/:year/:month/:day/:title/
